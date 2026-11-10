@@ -33,4 +33,5 @@ iOS 12.0+, iPadOS 12.0+, macOS 12.0+ (Monterey or later), watchOS 7.0+*, visionO
 >*watchOS and visionOS have not been verified.
 
 ## Antivirus Warning
+<img width="1822" height="356" alt="image" src="https://github.com/user-attachments/assets/f27685bf-0c9c-4811-b8d9-b02e46b80023" />
 Anti viruses can falsely flag the Windows .exe as malicious. This is because Pyinstaller can trigger false positives.
