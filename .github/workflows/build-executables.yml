@@ -2,7 +2,8 @@ name: Build executables
 
 on:
   push:
-    branches: ["main"]
+    paths:
+      - "exe-source.py"
   workflow_dispatch:
 
 permissions:
