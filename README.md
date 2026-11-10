@@ -27,7 +27,7 @@ Python 3.6+
 No separate Python installation required.
 
 **Apple Shortcut:**  
-iOS 12.0+, iPadOS 12.0+, macOS 12.0+ (Monterey or later), watchOS 7.0+*, visionOS 1.0+*
+iOS 12.0+, iPadOS 13.0+, macOS 12.0+ (Monterey or later), watchOS 7.0+*, visionOS 1.0+*
 
 >[!WARNING]
 >*watchOS and visionOS have not been verified.
